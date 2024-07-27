@@ -3,4 +3,10 @@ adding some new informations.
 having new code.
 new code should be there.
 add from git hub
+<<<<<<< HEAD
 this is from the local 
+=======
+this is from remote
+
+>>>>>>> adda34401a564c146f0970a387221a8bf4784a46
+dwqdqwdw	d
